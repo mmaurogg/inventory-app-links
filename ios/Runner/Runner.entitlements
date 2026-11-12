@@ -4,7 +4,7 @@
 <dict>
 	<key>com.apple.developer.associated-domains</key>
 	<array>
-		<string>applinks:tienda.example.com</string>
+		<string>applinks:inventory-app-links-6a93e.web.app</string>
 	</array>
 </dict>
 </plist>

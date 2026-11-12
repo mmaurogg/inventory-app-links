@@ -35,11 +35,11 @@
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
-                <data android:scheme="https" android:host="tienda.example.com" android:path="/"/>
-                <data android:scheme="https" android:host="tienda.example.com" android:pathPrefix="/categorias"/>
-                <data android:scheme="https" android:host="tienda.example.com" android:pathPrefix="/productos"/>
-                <data android:scheme="https" android:host="tienda.example.com" android:pathPrefix="/carrito"/>
-                <data android:scheme="https" android:host="tienda.example.com" android:pathPrefix="/ofertas"/>
+                <data android:scheme="https" android:host="inventory-app-links-6a93e.web.app" android:path="/"/>
+                <data android:scheme="https" android:host="inventory-app-links-6a93e.web.app" android:pathPrefix="/categorias"/>
+                <data android:scheme="https" android:host="inventory-app-links-6a93e.web.app" android:pathPrefix="/productos"/>
+                <data android:scheme="https" android:host="inventory-app-links-6a93e.web.app" android:pathPrefix="/carrito"/>
+                <data android:scheme="https" android:host="inventory-app-links-6a93e.web.app" android:pathPrefix="/ofertas"/>
             </intent-filter>
         </activity>
         <!-- Don't delete the meta-data below.

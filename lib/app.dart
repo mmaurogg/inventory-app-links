@@ -79,6 +79,7 @@ class _EcommerceAppState extends State<EcommerceApp> {
     return MaterialApp.router(
       title: 'Tienda',
       routerConfig: _router,
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.indigo),
         useMaterial3: true,
